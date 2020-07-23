@@ -1,0 +1,45 @@
+.navbar-word {
+    padding: 0 25px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.word {
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.navbar-word:hover{
+    border-bottom: 1px solid black;
+}
+
+
+.navbar-head {
+    font-size:20px;
+    text-transform: uppercase;
+}
+
+.card {
+    background-color:rgba(255, 255, 255, 0.7);
+}
+
+.dropdown-menu {
+    background-color: transparent;
+    border:none;
+}
+
+.table-light {
+    background-color:rgba(255, 255, 255, 0.7);
+    border-radius: 5px;
+}
+
+.cancel-btn {
+    width:fit-content;
+    margin:10px auto;
+}

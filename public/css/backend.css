@@ -1,0 +1,127 @@
+.card-margin {
+    margin-top:5%;
+}
+
+.display_all_car_wrapper {
+    margin:auto;
+    width:70%;
+    height:auto;
+    overflow: auto;
+}
+
+.display_single_car_box {
+    width:30%;
+    height:auto;
+    margin:10px 16px;
+    float: left;
+    background-color:rgba(255, 255, 255, 0.7);
+    border-radius: 5px;
+}
+
+.display_single_car_box ul {
+    list-style-type: none;
+    margin:auto;
+    margin-top:20px;
+    padding:0;
+    width: fit-content;
+}
+
+.action_button {
+    margin:auto;
+    padding:10%;
+    width:fit-content;
+}
+
+.admin_form {
+    margin:5% 10%;
+}
+
+.admin_form h1 {
+    text-align:center;
+}
+
+.show_specific_car_container {
+    margin:auto;
+}
+
+.show_specific_rental_container{
+    width: 70%;
+    margin:auto;
+}
+
+.show_specific_car_box {
+    margin:auto;
+    font-size: 30px;
+}
+
+.show_specific_car_container ul{
+    list-style-type: none;
+}
+
+.customer_table {
+    margin:auto;
+    width:70%;
+}
+
+.customer_profile_table {
+    margin:auto; 
+    text-align:center;
+}
+
+.customer_profile_detail_container {
+   margin:auto;
+   padding:3% 10%;
+   width:90%;
+   overflow:auto;
+}
+
+.customer_profile_detail_box {
+    text-align: center;
+    border-radius:10px;
+    margin:0% 2%;
+    padding:2% 0%;
+    float:left;
+    width:20%;
+    min-height: 150px;
+    height:auto;
+    background-color:rgba(255, 255, 255, 0.7);
+}
+
+.rental_order_container {
+    margin:auto;
+    width:70%;
+    box-shadow: gainsboro 1px 15px 10px 10px;
+    min-height: 500px;
+    height:auto;
+}
+
+.rental_order_body {
+    margin:auto;
+    width:90%;
+
+}
+
+.rental_order_header {
+    margin:auto;
+    width:fit-content;
+    padding:5% 0 2% 0;
+    text-align: center;
+}
+
+.breakline {
+    height:1px;
+    width:90%;
+    border-top:1px solid lightgray;
+    margin:auto;
+}
+
+.copyright {
+    height:200px;
+    position: relative;
+}
+
+.copyright-body {
+    position: absolute;
+    bottom:0;
+    left:25%;
+}
